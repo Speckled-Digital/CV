@@ -8,10 +8,10 @@ Digital Product Manager, Data and UX professional, based in SW London, with over
 ## Speckled Digital 
 Current
 
-I have been working on projects for the International Press and Television Council (IPTC), and Datalanguage.
+I have been working on projects for the International Press and Television Council (IPTC), and [Datalanguage](https://datalanguage.com).
 
 ## Senior Product Manager, Portfolio projects & Digital Marketplaces
-- Government Digital Service (GDS)
+- [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) (GDS)
 - Oct 2018 - Sept 2019	
 
 The brief covered 3 areas: 
@@ -32,7 +32,7 @@ The brief from the Head of Product for the William Hill Sportsbook Digital Team,
 - Develop a product roadmap for the data and video platform team in Gibraltar.
 
 ## Interim Project Lead, Content Architecture & BI
-- Eurosport, Sports Media and Broadcasting
+- [Eurosport](https://www.eurosport.co.uk), Sports Media and Broadcasting
 - July - October 2017	 
 
 The brief from the VP of Digital Products, was to work on a number of enabling data and product development strategies by: 
@@ -43,7 +43,7 @@ The brief from the VP of Digital Products, was to work on a number of enabling d
 - Datalanguage, A consultancy specialising in data and technical architecture
 - 2017			
 
-I worked with several clients of Datalanguage, Including Agrimetrics and Sky Italia:
+I worked with several clients of Datalanguage, Including [Agrimetrics](https://agrimetrics.co.uk) and Sky Italia:
 - Hosting workshops to clarify user needs and product outcomes.
 - Coaching - Directors, subject Matter Experts, data scientists, project managers. Using Product Management principles and agile processes and how they could be applied to their business.
 - Co-authoring proposals for new projects with Directors, Technical staff and Data Architects.
