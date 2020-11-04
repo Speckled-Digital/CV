@@ -49,6 +49,7 @@ Developing the Data-as-a-service (DaaS) strategy for an AgriData platform with A
 # Product / Project Delivery Lead, “RoboBlogger”
 Telegraph Media Group Publishing 
 April - August 2016	
+
 Led the Product work on “RoboBlogger”. An innovative publishing platform developed as part of Google’s Digital News Initiative (DNI). 
 RoboBlogger was designed to be a point of difference in the Telegraph’s editorial coverage of football. 
 Using lean development, we ingested live sport data, created and published visualisations of key incidents from football matches in near real time. 
