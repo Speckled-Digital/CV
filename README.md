@@ -9,7 +9,8 @@ Current
 
 I have been working on projects for the International Press and Television Council (IPTC), and Datalanguage.
 
-# Senior Product Manager, Portfolio projects & Digital Marketplaces | Government Digital Service (GDS)
+# Senior Product Manager, Portfolio projects & Digital Marketplaces
+Government Digital Service (GDS)
 Oct 2018 - Sept 2019	
 
 The brief covered 3 areas: 
