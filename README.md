@@ -8,7 +8,7 @@ Digital Product Manager, Data and UX professional, based in SW London, with over
 ## Speckled Digital 
 Current
 
-I have been working on projects for the International Press and Television Council (IPTC), and [Datalanguage](https://datalanguage.com).
+I have been working on projects for the [International Press and Television Council](https://iptc.org) (IPTC), and [Datalanguage](https://datalanguage.com).
 
 ## Senior Product Manager, Portfolio projects & Digital Marketplaces
 - [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) (GDS)
@@ -16,7 +16,7 @@ I have been working on projects for the International Press and Television Counc
 
 The brief covered 3 areas: 
 
-The Deputy Director, Product and Propositions, asked me to work with commercial, technical and strategic teams across the Crown Commercial Service (CCS) and the Government Digital Service (GDS), to define a new procurement platform to replace the Digital Marketplace for buyers and suppliers to the public sector. 
+The Deputy Director, Product and Propositions, asked me to work with commercial, technical and strategic teams across the [Crown Commercial Service](https://www.crowncommercial.gov.uk) (CCS) and the Government Digital Service (GDS), to define a new procurement platform to replace the Digital Marketplace for buyers and suppliers to the public sector. 
 - The current, live marketplace was developed and is supported using GDS agile methodologies.
 - I worked closely with the Head of enterprise Architecture, CCS to align technical and product roadmaps. 
 - Initial roll out of key accessibility targets (WCAG 2.1 AA), associated design systems and portfolio reporting.
@@ -53,7 +53,7 @@ I worked with several clients of Datalanguage, Including [Agrimetrics](https://a
 - Telegraph Media Group, Publishing 
 - April - August 2016	
 
-Led the Product work on “RoboBlogger”. An innovative publishing platform developed as part of Google’s Digital News Initiative (DNI). 
+Led the Product work on “RoboBlogger”. An innovative publishing platform developed as part of Google’s [Digital News Initiative](https://newsinitiative.withgoogle.com/dnifund/) (DNI). 
 - RoboBlogger was designed to be a point of difference in the Telegraph’s editorial coverage of football. 
 - Using lean development, we ingested live sport data, created and published visualisations of key incidents from football matches in near real time. 
 - Senior stakeholder management - ensuring senior editorial, Google, commercial and development teams were across dependencies and financial deadlines.
@@ -62,14 +62,14 @@ Led the Product work on “RoboBlogger”. An innovative publishing platform dev
 - Telegraph Media Group, Publishing
 - June 2015 - March 2016	
 
-An agile project to redefine, redesign and re-platform the new, responsive Sport website for Telegraph Media Group. Responsibilities included:
+An agile project to redefine, redesign and re-platform the new, responsive Sport website for [Telegraph Media Group](https://www.telegraph.co.uk/sport/). Responsibilities included:
 - Audience / User Research - Diary studies, face-to-face interviews, data and site analytics on user journeys across multiple platforms, including qualitative and quantitative user data.
 - Ideation, prototyping and customer journey definition for the new responsive site with UX, editorial and visual design.
 - Senior stakeholder management - ensuring senior editorial, IT, commercial and advertising staff understood the roadmaps.
 
 ## Other roles:
 
-- Nov 2014  - May 2015	Consultant Product Manager, Video Framework | Perform Media Sport Media and data 
+- Nov 2014  - May 2015	Consultant Product Manager, Video Framework | [Perform Media](https://www.statsperform.com) Sport Media and data 
 
 - Oct 2013 - August 2014 	Product Lead, Live Football | Trinity Mirror Publishing
 
