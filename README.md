@@ -66,27 +66,27 @@ Ideation, prototyping and customer journey definition for the new responsive sit
 Senior stakeholder management - ensuring senior editorial, IT, commercial and advertising staff understood the roadmaps.
 
 Nov 2014  - May 2015	Consultant Product Manager, Video Framework | Perform Media Sport Media and data 
+
 Oct 2013 - August 2014 	Product Lead, Live Football | Trinity Mirror Publishing
+
 April - Sept 2013		Product Development Consultant, Video Products | Perform Media Sport Media and data 
 
 # Permanent roles: 
 
 Jan 2000 - August 2012	
-Executive Product Manager, Metadata and Dynamic Publishing, BBC Future Media
-Executive Product Manager, BBC Sport
-UX, Design and Development Manager, BBC Sport and News
+- Executive Product Manager, Metadata and Dynamic Publishing, BBC Future Media
+- Executive Product Manager, BBC Sport
+- UX, Design and Development Manager, BBC Sport and News
 
 # Recommendations:
 
-John Wells
-Head of Enterprise Architecture at Crown Commercial Service (CCS)
-I worked with Jim on CCS's transformation programme. He utilised his extensive knowledge of publishing to help us rethink the way we work, bringing new insights and challenging long-held assumptions within the organisation. 
+John Wells - Head of Enterprise Architecture at Crown Commercial Service (CCS)
+- I worked with Jim on CCS's transformation programme. He utilised his extensive knowledge of publishing to help us rethink the way we work, bringing new insights and challenging long-held assumptions within the organisation. 
 
 His views on data and content really give pause for thought about how modern organisations run on their data and his relaxed and engaging style makes working with him an absolute pleasure.
 
-Aaron Scullion
-Experienced digital consultant and leader, specialising in media and sport.
-Jim is an excellent product manager who delivered measurable benefits and impacts during his time at Eurosport, contributing to the success of the international launch of the Eurosport Player on the BAMTech platform. 
+Aaron Scullion- Experienced digital consultant and leader, specialising in media and sport.
+- Jim is an excellent product manager who delivered measurable benefits and impacts during his time at Eurosport, contributing to the success of the international launch of the Eurosport Player on the BAMTech platform. 
 
 With expertise in data and an ability to apply this in a real world setting, he is an effective operator in any organisation where data is core (or has the potential to be core) to delivery of customer/business-facing products. 
 
