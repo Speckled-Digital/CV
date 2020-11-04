@@ -26,7 +26,7 @@ The Deputy Director, Product and Propositions, asked me to work with commercial,
 - William Hill, Gaming and bookmaking
 - Nov 2017 - June 2018
 
-- The brief from the Head of Product for the William Hill Sportsbook Digital Team, was to:
+The brief from the Head of Product for the William Hill Sportsbook Digital Team, was to:
 - Review existing data and streaming contracts with legal and procurement teams, in order to identify opportunities for Product Development and innovation. 
 - Make recommendations on maximising the use of data, content and video streaming contracts. 
 - Develop a product roadmap for the data and video platform team in Gibraltar.
@@ -53,7 +53,7 @@ I worked with several clients of Datalanguage, Including Agrimetrics and Sky Ita
 - Telegraph Media Group, Publishing 
 - April - August 2016	
 
-- Led the Product work on “RoboBlogger”. An innovative publishing platform developed as part of Google’s Digital News Initiative (DNI). 
+Led the Product work on “RoboBlogger”. An innovative publishing platform developed as part of Google’s Digital News Initiative (DNI). 
 - RoboBlogger was designed to be a point of difference in the Telegraph’s editorial coverage of football. 
 - Using lean development, we ingested live sport data, created and published visualisations of key incidents from football matches in near real time. 
 - Senior stakeholder management - ensuring senior editorial, Google, commercial and development teams were across dependencies and financial deadlines.
