@@ -4,7 +4,7 @@ Digital Product Manager, Data and UX professional, based in SW London, with over
 I am experienced at working with cross-disciplinary teams, using agile methods and build relationships with stakeholders and development teams. I have been working on business and customer-focussed transformation projects. 
 As well as audience-facing propositions, I have been asked to look at how the innovative use of data - either via API’s from suppliers, internal, linked data and domain models - can enable business change, improve the customer experience and the overall product proposition. 
 
-# Speckled Digital Freelance 
+# Speckled Digital 
 Current
 
 I have been working on projects for the International Press and Television Council (IPTC), and Datalanguage.
@@ -78,12 +78,14 @@ UX, Design and Development Manager, BBC Sport and News
 
 # Recommendations:
 
-John Wells - Head of Enterprise Architecture at Crown Commercial Service (CCS)
+John Wells
+Head of Enterprise Architecture at Crown Commercial Service (CCS)
 I worked with Jim on CCS's transformation programme. He utilised his extensive knowledge of publishing to help us rethink the way we work, bringing new insights and challenging long-held assumptions within the organisation. 
 
 His views on data and content really give pause for thought about how modern organisations run on their data and his relaxed and engaging style makes working with him an absolute pleasure.
 
-Aaron Scullion - Experienced digital consultant and leader, specialising in media and sport.
+Aaron Scullion
+Experienced digital consultant and leader, specialising in media and sport.
 Jim is an excellent product manager who delivered measurable benefits and impacts during his time at Eurosport, contributing to the success of the international launch of the Eurosport Player on the BAMTech platform. 
 
 With expertise in data and an ability to apply this in a real world setting, he is an effective operator in any organisation where data is core (or has the potential to be core) to delivery of customer/business-facing products. 
