@@ -97,3 +97,17 @@ Jan 2000 - August 2012
 - In addition, with great people skills and long-term experience of product organisations and agile development methodologies, Jim builds strong cross-functional relationships fast, and helps emerging teams to gel.
 
 
+### Joanna Mitchell - Executive Product Manager, BBC News
+- I have had the good fortune to work with Jim in two different roles and companies, during the World Cup project at Trinity Mirror and at The Telegraph, and value both experiences highly. Jim is a very focussed individual, with the innate ability to take a product through all its stages, and an acute awareness of the importance of communication, stakeholder buy-in and project focus. 
+- He is also brilliant at sharing his expertise and experience to help others in his team and beyond, I have learnt a lot from Jim in the time I have known him. 
+- Jim works well with product, technology and editorial teams, and understands the importance of telling a product 'story' to bring teams along with him. He is comfortable with agile and lean processes and I have seen many of his products start out as MVPs and grow in directions determined by data and feedback to become rounded and successful elements of a portfolio.
+- Jim works well with cross-disciplinary teams and is skilled at building relationships with stakeholders and developers, bringing them along on the journey of product development. He can come into a project at any stage, pick up the detail at a rate of knots and he will challenge assumptions and strategies where he sees need. Jim can then be depended on to work through the problems facing a project, product or portfolio to come up with solutions and iterate on ideas. 
+- I would be happy to work with Jim again in the future and he would be an asset to any team.
+
+### Ian Davies - Head of Product - BBC iPlayer distribution Strategy
+- I'd worked in collaboration with James in a previous role (I was at the Press Association - providing content and sports data to the BBC), so when I was tasked with creating a new Video Product Team at PERFORM, I was delighted that James was able to join us on a contract to help me build the function and help me to develop strategy for its products. 
+- Unflappably and expertly, James instinctively swapped hats to perform a number of roles - from keen-eyed Business Analyst, to Product Owner -and from Sharpie-wielding UX-designer to data strategist. 
+- His skills, creativity and experience proved a real asset; James was able to form strong relationships with senior stakeholders across the business - and, through a commitment to removing ambiguity and focusing on accuracy he was able to challenge and change existing thinking in a proactive, productive way. 
+- I learned a lot from James - as did my two direct line reports, who James coached expertly during his time with us. He should be very proud that the question "What would Jim do?" is posed regularly in this team to ensure a measured response is given to a particular challenge. 
+- If the opportunity arose to work with James again, I'd be delighted to do so
+
