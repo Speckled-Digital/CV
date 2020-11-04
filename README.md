@@ -11,8 +11,8 @@ Current
 I have been working on projects for the International Press and Television Council (IPTC), and Datalanguage.
 
 ## Senior Product Manager, Portfolio projects & Digital Marketplaces
-Government Digital Service (GDS)
-Oct 2018 - Sept 2019	
+- Government Digital Service (GDS)
+- Oct 2018 - Sept 2019	
 
 The brief covered 3 areas: 
 
@@ -23,8 +23,8 @@ The Deputy Director, Product and Propositions, asked me to work with commercial,
 - Identify initial opportunities to align and change products, User Research, analysis and user journeys, data services and processes across the Cabinet Office portfolio. The aim was to minimise duplication across products and ensure an element of future proofing across the Product suite.
 
 ## Product Consultant, Data & Platform, Sportsbook
-William Hill Gaming and bookmaking
-Nov 2017 - June 2018
+- William Hill, Gaming and bookmaking
+- Nov 2017 - June 2018
 
 - The brief from the Head of Product for the William Hill Sportsbook Digital Team, was to:
 - Review existing data and streaming contracts with legal and procurement teams, in order to identify opportunities for Product Development and innovation. 
@@ -32,16 +32,16 @@ Nov 2017 - June 2018
 - Develop a product roadmap for the data and video platform team in Gibraltar.
 
 ## Interim Project Lead, Content Architecture & BI
-Eurosport Sports Media and Broadcasting
-July - October 2017	 
+- Eurosport, Sports Media and Broadcasting
+- July - October 2017	 
 
 The brief from the VP of Digital Products, was to work on a number of enabling data and product development strategies by: 
 - Helping to develop a new, key initiative for the Eurosport live video subscription service.
 - To identify and flag key data dependencies across the London and Paris HQs, such as suppliers, the multi-language EPG, the new data lake and CRM. 
 
 ## Product Development Consultant
-Datalanguage - A consultancy specialising in data and technical architecture
-2017			
+- Datalanguage, A consultancy specialising in data and technical architecture
+- 2017			
 
 I worked with several clients of Datalanguage, Including Agrimetrics and Sky Italia:
 - Hosting workshops to clarify user needs and product outcomes.
@@ -50,8 +50,8 @@ I worked with several clients of Datalanguage, Including Agrimetrics and Sky Ita
 - Developing the Data-as-a-service (DaaS) strategy for an AgriData platform with Agrimetrics.
 
 ## Product / Project Delivery Lead, “RoboBlogger”
-Telegraph Media Group Publishing 
-April - August 2016	
+- Telegraph Media Group, Publishing 
+- April - August 2016	
 
 - Led the Product work on “RoboBlogger”. An innovative publishing platform developed as part of Google’s Digital News Initiative (DNI). 
 - RoboBlogger was designed to be a point of difference in the Telegraph’s editorial coverage of football. 
@@ -59,8 +59,8 @@ April - August 2016
 - Senior stakeholder management - ensuring senior editorial, Google, commercial and development teams were across dependencies and financial deadlines.
 
 ## Product Lead, Sport
-Telegraph Media Group Publishing
-June 2015  - March 2016	
+- Telegraph Media Group, Publishing
+- June 2015 - March 2016	
 
 An agile project to redefine, redesign and re-platform the new, responsive Sport website for Telegraph Media Group. Responsibilities included:
 - Audience / User Research - Diary studies, face-to-face interviews, data and site analytics on user journeys across multiple platforms, including qualitative and quantitative user data.
