@@ -5,9 +5,13 @@ Digital Product Manager, Data and UX professional, based in SW London, with over
 - I have been working on business and customer-focussed transformation projects. 
 - As well as audience-facing propositions, I have been asked to look at how the innovative use of data - either via API’s from suppliers, internal, linked data and domain models - can enable business change, improve the customer experience and the overall product proposition. 
 
-## Speckled Digital 
-Current
+## Product and Delivery Management
+[Idean CapGemini Creative Studios](https://www.idean.com/)
+A project delivering to [Dept of Work and Pensions Digital](https://dwpdigital.blog.gov.uk/) (DWP)
+- Finalise Discovery, Alpha, service assessments and procurement phases of a new ‘Capability Manager’ skills system for DWP Digital staff.
 
+
+## Speckled Digital 
 I have been working on projects for the [International Press and Television Council](https://iptc.org) (IPTC), and [Datalanguage](https://datalanguage.com).
 
 ## Senior Product Manager, Portfolio projects & Digital Marketplaces
