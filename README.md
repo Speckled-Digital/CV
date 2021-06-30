@@ -1,5 +1,5 @@
 # CV
-## Product Management,Consultancy and Development
+## Product Management, Consultancy and Development
 Digital Product Manager, Data and UX professional, based in SW London, with over 15 years leadership and managerial experience. 
 - I am experienced at working with cross-disciplinary teams, using agile methods and build relationships with stakeholders and development teams. 
 - I have been working on business and customer-focussed transformation projects. 
@@ -7,7 +7,7 @@ Digital Product Manager, Data and UX professional, based in SW London, with over
 
 ## Product and Delivery Management
 - [Idean CapGemini Creative Studios](https://www.idean.com/)
-- Jan 2021 - April 2021
+- Jan 2021 - May 2021
 - A project delivering to [Dept of Work and Pensions Digital](https://dwpdigital.blog.gov.uk/) (DWP)
 - Finalise Discovery, Alpha, service assessments and procurement phases of a new ‘Capability Manager’ skills system for DWP Digital staff.
 
