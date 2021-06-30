@@ -1,4 +1,9 @@
 # CV
+
+## Speckled Digital 
+- 2021
+- Freelance and mentoring projects
+
 ## Product Management, Consultancy and Development
 Digital Product Manager, Data and UX professional, based in SW London, with over 15 years leadership and managerial experience. 
 - I am experienced at working with cross-disciplinary teams, using agile methods and build relationships with stakeholders and development teams. 
@@ -13,7 +18,8 @@ Digital Product Manager, Data and UX professional, based in SW London, with over
 
 
 ## Speckled Digital 
-I have been working on projects for the [International Press and Television Council](https://iptc.org) (IPTC), and [Datalanguage](https://datalanguage.com).
+- 2020
+- I was working on projects for the [International Press and Television Council](https://iptc.org) (IPTC), and [Datalanguage](https://datalanguage.com).
 
 ## Senior Product Manager, Portfolio projects & Digital Marketplaces
 - [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) (GDS)
