@@ -1,7 +1,7 @@
 # CV
 
 ## Product Management, Consultancy and Development
-Digital Product Manager, Data and UX professional, based in SW London, with over 15 years leadership and managerial experience. 
+Digital Product Manager, Data and UX professional, based in Devon, with over 15 years leadership and managerial experience. 
 - I am experienced at working with cross-disciplinary teams, using agile methods and build relationships with stakeholders and development teams. 
 - I have been working on business and customer-focussed transformation projects. 
 - As well as audience-facing propositions, I have been asked to look at how the innovative use of data - either via API’s from suppliers, internal, linked data and domain models - can enable business change, improve the customer experience and the overall product proposition. 
