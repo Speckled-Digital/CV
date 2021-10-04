@@ -8,7 +8,7 @@ Digital Product Manager, Data and UX professional, based in Devon, with over 15 
 
 ## Speckled Digital 
 - Ongoing
-- Consutancy, Freelance and mentoring projects
+- Consultancy, Freelance and mentoring projects
 
 ## Product and Delivery Management
 - [Idean CapGemini Creative Studios](https://www.idean.com/)
